@@ -1,0 +1,2 @@
+DT2470_lab03_1.ipynb filter=lfs diff=lfs merge=lfs -text
+labdata filter=lfs diff=lfs merge=lfs -text
